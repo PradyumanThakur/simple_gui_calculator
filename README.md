@@ -7,14 +7,14 @@ Basic calculator using Python.
 
 ###  Functionality
 
-Addition
-Subtraction
-Multiplication
-Division
-Squareroot
-Exponentiation
-Factorial
-Modulus
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Squareroot
+- Exponentiation
+- Factorial
+- Modulus
 
 ### Dependencies
 
