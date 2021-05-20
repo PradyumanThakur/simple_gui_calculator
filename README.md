@@ -4,6 +4,7 @@ Basic calculator using Python.
 
 ## Sample image
 
+![Alt text](https://github.com/PradyumanThakur/simple_gui_calculator/blob/main/images/calculator.PNG?raw=true)
 
 ###  Functionality
 
