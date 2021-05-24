@@ -23,7 +23,7 @@ Python Library - Tkinter
 
 ## Author
 
-PradyumanThakur
+__[Pradyuman Thakur](https://github.com/PradyumanThakur)__
 
 ## License
 
